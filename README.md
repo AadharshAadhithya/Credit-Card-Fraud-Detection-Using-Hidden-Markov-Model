@@ -1,2 +1,4 @@
-# Credir-Card-Fraud-Detection-Using-Hidden-Markov-Model
-I
+# Credit-Card-Fraud-Detection-Using-Hidden-Markov-Model
+--- 
+# Authors
+
